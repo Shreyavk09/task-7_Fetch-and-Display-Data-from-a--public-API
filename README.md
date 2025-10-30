@@ -5,8 +5,8 @@ This project is a solution for an internship task to demonstrate proficiency wit
 ## 📸 Demo
 
 
-`## 📸 Preview
-![Landing Page Screenshot](./screenshot/1.png)`
+
+![Landing Page Screenshot](./screenshot/1.png)
 
 ---
 
